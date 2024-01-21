@@ -1,0 +1,110 @@
+html,
+body {
+  background-color: #e0023c;
+  height: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  color: white;
+}
+
+.navbar {
+  background-color: #7c0424;
+  height: 60px;
+  margin: 20px;
+  border-radius: 16px;
+  padding: 0.5rem;
+}
+
+.navbar-brand {
+  color: white;
+}
+.nav-link {
+  color: white;
+}
+
+.kepek {  
+    float: left;
+    margin-left: 30px;
+  
+}
+
+.iras {
+    font-size: 30px;
+    margin-right: 30px;
+
+}
+.headingegy {
+    padding: 100px;
+    text-align: center;
+    
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    text-align: center;
+    margin: 10px;
+  }
+  
+.title {
+    color: grey;
+    font-size: 18px;
+}
+  
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+  
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+  
+button:hover, a:hover {
+    opacity: 0.7;
+}
+.tiktok {
+    font-weight: bold;
+}
+
+.insta {
+    font-weight: bold;
+}
+
+.card {
+    margin: 10px;
+}
+
+.kep{
+    width: 100% !important;
+    border-radius: 20px;
+}
+  
+.partner{
+    background-color: #7c0424;
+}
+
+.partnerkep{
+    width: 40%;
+}
+
+.igazitas{
+    text-align: center;
+    align-items: center;
+}
+
+.btn{
+    background-color: #7c0424;
+    color: white;
+}
+
