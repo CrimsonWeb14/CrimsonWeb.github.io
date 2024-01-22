@@ -1,0 +1,112 @@
+html,
+body {
+  background-color: #e0023c;
+  height: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  color: white;
+}
+
+.navbar {
+  background-color: #7c0424;
+  height: 60px;
+  margin: 20px;
+  border-radius: 16px;
+  padding: 0.5rem;
+}
+
+.navbar-brand {
+  color: white;
+}
+.nav-link {
+  color: white;
+}
+
+.kep{
+  width: 100% !important;
+  border-radius: 20px;
+}
+
+.partner{
+  background-color: #7c0424;
+}
+.partnerkep{
+  width: 40%;
+}
+.igazitas{
+  text-align: center;
+  align-items: center;
+}
+.btn{
+  background-color: #7c0424;
+  color: white;
+}
+.cim{
+  background-image: url(cim.jpg);
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-right: 100px;
+  text-align: right;
+}
+.szoveg{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 130%;
+}
+
+.opciok{
+  margin: 40px;
+  padding: 10px;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+  height: 100%;
+  background-color: #7c0424;
+  margin-bottom: 20px;
+}
+
+.hal{
+ padding-left: 320px;
+ padding-right: 300px;
+ padding-top: 50px;
+ margin-bottom: 75px;
+}
+
+h2{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: black;
+  border-top-right-radius: 50px;
+}
+
+ul{
+  padding-left: 50px;
+ padding-right: 50px;
+}
+
+li{
+  font-size: 120%;
+}
+
+.ar{
+  text-align: center;
+  border: 5px solid white;
+  border-radius: 50px;
+  padding: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.also{
+  padding-bottom: 50px;
+}
+
+img{
+  border-radius: 50px;
+  width: 100%;
+  align-items: center;
+}
